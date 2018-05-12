@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2691'
     url: http://www.gutenberg.org/2009/agents/2691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14477#The-Inside-Story-of-the-Peace-Conference
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-12-26'
 gutenberg_type: Text
